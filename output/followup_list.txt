@@ -1,0 +1,15 @@
+Cutoff: 130 mmHg
+Reason: Assuming this is a primary care clinic, 130 is the systolic cutoff where real intervention (lifestyle changes or meds) would be considered.
+P011
+P006
+P022
+P002
+P020
+P025
+P015
+P023
+P028
+P018
+P009
+P014
+P005
