@@ -2,11 +2,11 @@
 
 ## Project description
 
-TODO: Replace this line with a 30-300 character description of what this project does. (This is part of the assignment, read on and it will make more sense.)
+This project takes raw clinic data, which includes patient ID, visit date, and systolic blood pressure (BP), and determines usable entries, total patients seen, and systolic BP mean/range. Based on a user-determined cutoff BP value, a list of patients who require follow-up is outputted. 
 
 ## Run
 
-TODO: Replace this line with the Python 3.13 terminal command that runs your report script.
+python3 clinic_report.py
 
 ## Files
 
